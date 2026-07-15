@@ -31,10 +31,7 @@ src/    → ESP32 firmware (C/C++)
 2. Wire up the motor driver + motor to the ESP32 (see [pinout/wiring — TODO])
 3. Connect the ESP32 via USB
 4. Run the GUI:
-   ```bash
-   python GUI/[main_file].py
-   ```
-5. Select the correct serial port and start the calibration sweep
+5. Start calibration 
 
 ## Why
 
